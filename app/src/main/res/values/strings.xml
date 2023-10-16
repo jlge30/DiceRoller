@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Lanzar</string>
+    <string name="lanzar">Has lanzado</string>
+    <string name="ganado">!!Has ganado una moneda!!</string>
+    <string name="perdido">!!Has perdido una moneda!!</string>
+    <string name="ganado2">¡¡DOBLE 6 Has ganado 2 monedas!!</string>
+    <string name="tiradaspendientes">Tiradas restantes: </string>
+    <string name="bienvenida">Apptimizadores Nativos</string>
+
+</resources>
